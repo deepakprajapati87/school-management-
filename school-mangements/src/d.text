@@ -1,0 +1,5 @@
+ <nav style={{ padding: '10px', backgroundColor:'black;' }}>
+            <Link to={'/'} style={{ marginRight: '10px'}}>Home</Link>
+            <Link to={'/about'} style={{ marginRight: '10px'}}>About Us</Link>
+            <Link to={'/contact'} style={{ marginRight: '10px'}}>Contact Us</Link>
+         </nav>
